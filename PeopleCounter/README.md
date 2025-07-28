@@ -16,7 +16,7 @@ A simple JavaScript-based People Counter that tracks the number of individuals a
 
 ## 📸 Preview
 
-![Screenshot](./screenshots/Pepcount.png)  
+![Screenshot](./screenshots/PepCount.png)  
 <sub>*UI Preview (replace with actual screenshot)*</sub>
 
 ---
