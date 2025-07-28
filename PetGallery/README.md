@@ -31,20 +31,20 @@ PetGallery is a dynamic web platform that allows users to share heartwarming pet
 <table>
   <tr>
     <td align="center">
-      <img src="./screenshots/story_page.png" alt="Story Page" width="300"/><br/>
-      <sub>📖 Pet Stories List (User View)</sub>
+      <img src="./screenshots/hero_page.png" alt="Admin Panel" width="300"/><br/>
+      <sub>👋 Hero Page</sub>
+    </td>
+    <td align="center">
+      <img src="./screenshots/stories_page.png" alt="Story Page" width="300"/><br/>
+      <sub>📖 Pet Stories Page</sub>
+    </td>
+    <td align="center">
+      <img src="./screenshots/gallery_page.png" alt="Gallery Page" width="300"/><br/>
+      <sub>🖼️ Gallery Page</sub>
     </td>
     <td align="center">
       <img src="./screenshots/crud.png" alt="CRUD" width="300"/><br/>
       <sub>🛠️ CRUD Dashboard</sub>
-    </td>
-    <td align="center">
-      <img src="./screenshots/stories_page.png" alt="Admin Panel" width="300"/><br/>
-      <sub>🛠️ Stories Page</sub>
-    </td>
-    <td align="center">
-      <img src="./screenshots/hero_page.png" alt="Admin Panel" width="300"/><br/>
-      <sub>🛠️ Hero Page</sub>
     </td>
   </tr>
 </table>
