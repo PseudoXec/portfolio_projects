@@ -1,8 +1,8 @@
-# 🐾 PetGallery – A Story-Driven Pet Gallery Platform
+# 🐾 PetGallery – A Story-Driven Pet Gallery Website
 
 **Full Stack CRUD Web Application**
 
-PetGallery is a dynamic web platform that allows users to share heartwarming pet stories and interact with images by liking them. It features a complete admin dashboard for managing all submitted content via full CRUD (Create, Read, Update, Delete) operations.
+PetGallery is a dynamic website that allows users to share heartwarming pet stories and interact with images by liking them. It features a complete admin dashboard for managing all submitted content via full CRUD (Create, Read, Update, Delete) operations.
 
 ---
 
@@ -31,19 +31,19 @@ PetGallery is a dynamic web platform that allows users to share heartwarming pet
 <table>
   <tr>
     <td align="center">
-      <img src="./screenshots/hero_page.png" alt="Admin Panel" width="300"/><br/>
+      <img src="./screenshots/hero_page.png" alt="Admin Panel" width="500"/><br/>
       <sub>👋 Hero Page</sub>
     </td>
     <td align="center">
-      <img src="./screenshots/stories_page.png" alt="Story Page" width="300"/><br/>
+      <img src="./screenshots/stories_page.png" alt="Story Page" width="500"/><br/>
       <sub>📖 Pet Stories Page</sub>
     </td>
     <td align="center">
-      <img src="./screenshots/gallery_page.png" alt="Gallery Page" width="300"/><br/>
+      <img src="./screenshots/gallery_page.png" alt="Gallery Page" width="500"/><br/>
       <sub>🖼️ Gallery Page</sub>
     </td>
     <td align="center">
-      <img src="./screenshots/crud_page.png" alt="CRUD" width="300"/><br/>
+      <img src="./screenshots/crud_page.png" alt="CRUD" width="500"/><br/>
       <sub>🛠️ CRUD Dashboard</sub>
     </td>
   </tr>
