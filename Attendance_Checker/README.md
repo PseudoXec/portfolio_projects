@@ -24,8 +24,7 @@ Recognice is a Python-based attendance system that uses facial recognition and b
 
 - **Language**: Python  
 - **Libraries**: OpenCV, NumPy, Pillow, face_recognition, PyQt5  
-- **Storage**: Local CSV files for attendance logs  
-- **Anti-Spoofing**: Basic frame validation + liveness detection logic
+- **Storage**: Local CSV files for attendance logs
 
 ---
 
