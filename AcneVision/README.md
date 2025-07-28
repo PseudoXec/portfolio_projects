@@ -22,7 +22,7 @@ It integrates medical grading standards to provide users with real-time, medical
 |--------------|--------------------------------------------|
 | Frontend     | Kotlin, Android Studio, Jetpack (CameraX, ViewModel, LiveData) |
 | Backend (ML) | Python, YOLOv9, ONNX, ONNX Runtime         |
-| Integration  | Android NDK, ONNX for Android              |
+| Integration  | ONNX for Android              |
 
 ---
 
