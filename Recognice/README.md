@@ -35,11 +35,19 @@ Recognice is a Python-based attendance system that uses facial recognition and b
 <table>
   <tr>
     <td align="center">
-      <img src="./screenshots/face-scan.png" alt="Face Recognition" width="300"/><br/>
+      <img src="./screenshots/face_recognition.png" alt="Face Recognition" width="300"/><br/>
       <strong>🙋‍♂️ Facial Recognition Panel</strong>
     </td>
     <td align="center">
-      <img src="./screenshots/barcode-scan.png" alt="Barcode Scanner" width="300"/><br/>
+      <img src="./screenshots/barcode_scanner.png" alt="Barcode Scanner" width="300"/><br/>
+      <strong>📷 Barcode Scanner Module</strong>
+    </td>
+    <td align="center">
+      <img src="./screenshots/sample_dashboard.png" alt="Dashboard" width="300"/><br/>
+      <strong>📷 Barcode Scanner Module</strong>
+    </td>
+    <td align="center">
+      <img src="./screenshots/anti_spoofing.png" alt="Antispoofing" width="300"/><br/>
       <strong>📷 Barcode Scanner Module</strong>
     </td>
   </tr>
