@@ -31,8 +31,8 @@ It integrates medical grading standards to provide users with real-time, medical
 > *(Upload your screenshots inside a `/screenshots` folder and replace the links below)*
 
 ### 🔍 Detection in Action  
-![Detection View](./screenshots/detection-view.png)
+![Detection View](./screenshots/realtime_scan.jpg)
 
 ### 📊 Severity Grading Output  
-![Severity Output](./screenshots/severity-output.png)
+![Severity Output](./screenshots/gags_result.png)
 
