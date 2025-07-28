@@ -44,3 +44,10 @@ It integrates medical grading standards to provide users with real-time, medical
     </td>
   </tr>
 </table>
+
+---
+
+📬 Reach Out for Access
+Access may be granted upon request for educational or review purposes.
+
+---
