@@ -29,8 +29,8 @@ It integrates medical grading standards to provide users with real-time, medical
 ## 📸 Screenshots
 
 ### 🔍 Detection in Action  
-<img src="./screenshots/realtime_scan.jpg" alt="Detection View" width="600"/>
+<img src="./screenshots/realtime_scan.jpg" alt="Detection View" width="100"/>
 
 ### 📊 Severity Grading Output  
-<img src="./screenshots/gags_result.png" alt="Detection View" width="600"/>
+<img src="./screenshots/gags_result.png" alt="Detection View" width="100"/>
 
