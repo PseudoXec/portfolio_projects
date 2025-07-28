@@ -43,10 +43,16 @@ PetGallery is a dynamic web platform that allows users to share heartwarming pet
       <sub>🖼️ Gallery Page</sub>
     </td>
     <td align="center">
-      <img src="./screenshots/crud.png" alt="CRUD" width="300"/><br/>
+      <img src="./screenshots/crud_page.png" alt="CRUD" width="300"/><br/>
       <sub>🛠️ CRUD Dashboard</sub>
     </td>
   </tr>
 </table>
+
+---
+
+📬 Reach Out for Access
+
+Access may be granted upon request for educational or review purposes.
 
 ---
