@@ -38,5 +38,9 @@ It integrates medical grading standards to provide users with real-time, medical
       <img src="./screenshots/gags_result.png" alt="Severity Output" width="300"/><br/>
       <strong>📊 Severity Grading Output</strong>
     </td>
+      <td align="center">
+      <img src="./screenshots/capture_image.png" alt="Sample UI" width="300"/><br/>
+      <strong>🖼️ Sample UI</strong>
+    </td>
   </tr>
 </table>
